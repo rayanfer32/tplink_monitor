@@ -1,4 +1,4 @@
-# tplink_monitor (TL-WR840N router)
+# tplink Stats monitor (TL-WR840N router)
 Specifically modified terminal program for the TP-LINK TL-WR840N wifi router
 
 # Usage:
