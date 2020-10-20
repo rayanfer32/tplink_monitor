@@ -7,4 +7,4 @@ Specifically modified terminal program for the TP-LINK TL-WR840N wifi router
 python main.py -p admin:admin
 ```
 # Thanks:
-### [@mepla](github.com/mepla/sherry)
+### [@mepla/sherry](https://github.com/mepla/sherry)
